@@ -1,0 +1,58 @@
+{
+    "uuid0": {
+        "title": "Dark Souls III",
+        "description": "Dark Souls III is a 2016 action role-playing video game developed by FromSoftware and published by Bandai Namco Entertainment.",
+        "price": 66.49,
+        "gpVal": 0,
+        "gpValNum": 0,
+        "graphicsVal": 0,
+        "graphicsValNum": 0,
+        "imagesLst": [
+          "https://images5.alphacoders.com/609/thumb-1920-609173.jpg",
+          "https://cdn.cloudflare.steamstatic.com/steam/apps/374320/ss_fe1dc6761a9004aa39c2e6e62181593b7263edf9.1920x1080.jpg?t=1638193506",
+          "https://media.wired.com/photos/592715d6f3e2356fd800b6ab/master/w_1600%2Cc_limit/ds-iii-4.jpg"
+        ]
+    },
+    "uuid1": {
+        "title": "God of War",
+        "description": "God of War is an action-adventure game developed by Santa Monica Studio and published by Sony Interactive Entertainment.",
+        "price": 59.99,
+        "gpVal": 0,
+        "gpValNum": 0,
+        "graphicsVal": 0,
+        "graphicsValNum": 0,
+        "imagesLst": [
+          "https://images.gnwcdn.com/2017/usgamer/God-of-War-2018-Header-01.jpg/EG11/thumbnail/1920x1080/format/jpg/quality/65/hand-drawn-pre-owned-god-of-war-cover-is-as-beautiful-as-it-is-informative.jpg",
+          "https://www.trustedreviews.com/wp-content/uploads/sites/54/2016/06/god-of-war-1-4.png",
+          "https://media.gq.com/photos/5ad8dd10ceb93861adb912c0/3:2/w_1620,h_1080,c_limit/god-of-war-review.jpg"
+        ]
+    },
+    "uuid2": {
+        "title": "Tales of Arise",
+        "description": "Tales of Arise is an action role-playing game developed and published by Bandai Namco Entertainment ",
+        "price": 79.99,
+        "gpVal": 0,
+        "gpValNum": 0,
+        "graphicsVal": 0,
+        "graphicsValNum": 0,
+        "imagesLst": [
+          "https://www.psu.com/wp/wp-content/uploads/2021/07/Tales-of-Arise-PS5-wallpapers-13.jpg",
+          "https://static.bandainamcoent.eu/high/tales-of/tales-of-arise/00-page-setup/toa_game-thumbnail.jpg",
+          "https://www.playstationlifestyle.net/assets/uploads/2019/06/tales-of-arise-announced-1280x720.jpg"
+        ]
+    },
+    "uuid3": {
+        "title": "Sekiro: Shadows Die Twice",
+        "description": "Sekiro: Shadows Die Twice is a 2019 action-adventure game developed by FromSoftware and published by Activision.",
+        "price": 79.99,
+        "gpVal": 0,
+        "gpValNum": 0,
+        "graphicsVal": 0,
+        "graphicsValNum": 0,
+        "imagesLst": [
+          "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/773966be-6e02-41dd-8ee2-b6c03e90b854/dcef71y-36be97a6-1d92-4e24-97ac-89a5fe7f2266.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc3Mzk2NmJlLTZlMDItNDFkZC04ZWUyLWI2YzAzZTkwYjg1NFwvZGNlZjcxeS0zNmJlOTdhNi0xZDkyLTRlMjQtOTdhYy04OWE1ZmU3ZjIyNjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CjLncRq_Z2qSoTXWotOXEMDhY_rDGdV9hWvZHfIHIDw",
+          "https://twinfinite.net/wp-content/uploads/2019/03/sekiro-2-1.jpg",
+          "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2021/08/sekiro-shadows-die-twice-2425379.jpg"
+        ]
+    }
+}

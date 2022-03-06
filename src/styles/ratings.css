@@ -1,0 +1,23 @@
+
+.rating {
+    display: flex;
+    position: relative;
+    left: 35%
+}
+
+.rating-item {
+    width: 2vw;
+    height: 3vh;
+    cursor: pointer;
+    fill: white;
+    transition: 0.5s;
+}
+
+.rating-item.hover {
+    fill: grey;
+    transition: 0.5s;
+}
+
+.rating-item.active {
+    fill: black;
+}
